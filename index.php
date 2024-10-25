@@ -6,8 +6,8 @@
     <title>Stress Test via PHP</title>
 </head>
 <body>
-    <h2>Controle de Estresse de CPU</h2>
-   <center>
+        <center>
+           <h2>Controle de Estresse de CPU</h2>
         <img src="images/AWS_Logo_Web_200px.png" />
    <center>
 
